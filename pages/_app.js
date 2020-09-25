@@ -1,4 +1,5 @@
 import '../styles/globals.css'
+import "@yaireo/tagify/dist/tagify.css"
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
